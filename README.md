@@ -1,0 +1,2 @@
+# awslambda
+serverless configuration
